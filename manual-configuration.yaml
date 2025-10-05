@@ -93,7 +93,7 @@ gree:
 # Example for multiple AC units:
 # gree:
 #   - name: "Living Room AC"
-#     host: "192.168.1.101"
+#     host: "192.168.1.1"
 #     mac: "20-FA-BB-12-34-56"
 #     encryption_version: 2
 #   
