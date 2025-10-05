@@ -10,7 +10,7 @@ gree:
   - name: "First AC"
     
     # IP Address of AC (required)
-    host: "192.168.1.101"
+    host: "192.168.50.100"
     
     # MAC address of the device (required)
     # Format can be XX:XX:XX:XX:XX:XX, XX-XX-XX-XX-XX-XX, xxxxxxxxxxxx 
